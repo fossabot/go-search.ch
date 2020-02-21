@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/f102c330e6b359c79171b14cbdac8496/5363c78efdfa4bcfe393e6d885b77277</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2020-02-21T03:00:00Z</updated>
+  <link href="https://tel.search.ch/result.html?was=0622964929" rel="alternate" type="text/html" />
+  <link href="http://tel.search.ch/api/?was=0622964929&amp;key=f102c330e6b359c79171b14cbdac8496" type="application/atom+xml" rel="self" />
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="0622964929 " startPage="1"></openSearch:Query>
+  <openSearch:Image height="1" width="1" type="image/gif">https://www.search.ch/audit/CP/tel/de/api</openSearch:Image>
+  <entry>
+    <id>urn:uuid:b382ad02771514e4</id>
+    <updated>2020-02-21T03:00:00Z</updated>
+    <published>2020-02-21T03:00:00Z</published>
+    <title type="text">Brugger, Marc und von Wartburg Brugger Esther</title>
+    <content type="text">Brugger, Marc und von Wartburg Brugger Esther
+    Mettelweg 5
+    4600 Olten SO
+    *062 296 49 29</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/olten/mettelweg-5/marc-und-von-wartburg-brugger-esther-brugger" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Brugger.vcf?key=b382ad02771514e4" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=b382ad02771514e4" rel="edit" type="text/html" />
+    <tel:pos>1</tel:pos>
+    <tel:id>b382ad02771514e4</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Brugger</tel:name>
+    <tel:firstname>Marc und von Wartburg Brugger Esther</tel:firstname>
+    <tel:street>Mettelweg</tel:street>
+    <tel:streetno>5</tel:streetno>
+    <tel:zip>4600</tel:zip>
+    <tel:city>Olten</tel:city>
+    <tel:canton>SO</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41622964929</tel:phone>
+    <tel:copyright>Daten: Swisscom Directories AG</tel:copyright>
+  </entry>
+</feed>

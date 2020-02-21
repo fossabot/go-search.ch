@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/MEINPRIVATERAPIKEY/68e7af8f8efa353de6d0b05f798598f4</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2007-03-22T03:00:00Z</updated>
+  <link href="https://tel.search.ch/result.html?name=john+meier&amp;maxnum=2" rel="alternate" type="text/html" />
+  <link href="https://tel.search.ch/api/?was=john+meier&amp;maxnum=2&amp;key=MEINPRIVATERAPIKEY" type="application/atom+xml" rel="self" />
+  <link href="https://tel.search.ch/api/?was=john+meier&amp;maxnum=2&amp;pos=3&amp;key=MEINPRIVATERAPIKEY" rel="next" type="application/atom+xml" />
+  <openSearch:totalResults>14</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>2</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="john meier" startPage="1" />
+  <entry>
+    <id>urn:uuid:b4f420fda52419f2</id>
+    <updated>2007-03-22T03:00:00Z</updated>
+    <published>2007-03-22T03:00:00Z</published>
+    <title type="text">Meier, John</title>
+    <content type="text">Meier, John
+    Marienfeldstrasse 92
+    8252 Schlatt/TG
+    *052 654 42 30</content>
+    <autor>
+      <name>tel.search.ch</name>
+    </autor>
+    <link href="https://tel.search.ch/detail/b4f420fda52419f2" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Meier.vcf?key=b4f420fda52419f2" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=b4f420fda52419f2" rel="edit" type="text/html" />
+    <tel:pos>1</tel:pos>
+    <tel:id>b4f420fda52419f2</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Meier</tel:name>
+    <tel:firstname>John</tel:firstname>
+    <tel:occupation></tel:occupation>
+    <tel:street>Marienfeldstrasse</tel:street>
+    <tel:streetno>92</tel:streetno>
+    <tel:zip>8252</tel:zip>
+    <tel:city>Schlatt</tel:city>
+    <tel:canton>TG</tel:canton>
+    <tel:phone>+41526544230</tel:phone>
+  </entry>
+  <entry>
+    <id>urn:uuid:c8c043412a3ce526</id>
+    <updated>2007-03-22T03:00:00Z</updated>
+    <published>2007-03-22T03:00:00Z</published>
+    <title type="text">John Meier IT-Consulting</title>
+    <content type="text">John Meier IT-Consulting
+    Unterdorfstrasse 22
+    4143 Dornach/SO
+    061 723 62 92</content>
+    <autor>
+      <name>tel.search.ch</name>
+    </autor>
+    <link href="https://tel.search.ch/detail/c8c043412a3ce526" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Meier.vcf?key=c8c043412a3ce526" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=c8c043412a3ce526" rel="edit" type="text/html" />
+    <tel:pos>2</tel:pos>
+    <tel:id>c8c043402a3ce526</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>John Meier IT Consulting</tel:name>
+    <tel:occupation>Your Personal IT-Consultant</tel:occupation>
+    <tel:street>Unterdorfstrasse</tel:street>
+    <tel:streetno>22</tel:streetno>
+    <tel:zip>4143</tel:zip>
+    <tel:city>Dornach</tel:city>
+    <tel:canton>SO</tel:canton>
+    <tel:category>Software Grosshandel</tel:category>
+    <tel:category>Software &amp; Consulting</tel:category>
+    <tel:phone>+41617236292</tel:phone>
+    <tel:extra type="fax">+41617236393</tel:extra>
+    <tel:extra type="mobile">+41763341010</tel:extra>
+    <tel:extra type="email">john.meier@mymail.com</tel:extra>
+    <tel:extra type="website">http://www.johnmeierconsult.com</tel:extra>
+  </entry>
+</feed>

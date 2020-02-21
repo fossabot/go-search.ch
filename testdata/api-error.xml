@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/error-403</id>
+  <title type="text">tel.search.ch API Error</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2007-03-22T15:09:43Z</updated>
+  <link rel="help" href="https://tel.search.ch/api/help" type="text/html" />
+  <tel:errorCode>403</tel:errorCode>
+  <tel:errorReason>Forbidden</tel:errorReason>
+  <tel:errorMessage>The submitted API-Key is invalid or blocked</tel:errorMessage>
+</feed>
